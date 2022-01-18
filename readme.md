@@ -1,3 +1,12 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.de-de) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.de-de).
+
 # Grundlagen zu Microsoft Azure Data
 
 Dieses Repository enthält die praktischen Lab-Übungen für den Microsoft-Kurs [DP-900 *Grundlagen zu Microsoft Azure Data*](https://docs.microsoft.com/de-de/learn/certifications/courses/dp-900t00) und die [eigenverantwortlichen Module unter Microsoft Learn](https://docs.microsoft.com/de-de/users/23110622/collections/0kjyh8rn5gdrjj/). Diese Labs begleiten die Lernmaterialen und erleichtern die praktische Anwendung der beschriebenen Technologien. 
